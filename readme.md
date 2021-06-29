@@ -13,7 +13,7 @@
 执行方式:
 
 ```
-python3 main.py
+python3 data_Preprocess.py
 ```
 
 #### main.py:主程序,控制模型的训练，测试，与导入
