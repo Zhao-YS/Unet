@@ -1,5 +1,4 @@
 # ReadMe file
-
 ## Environment
 - python==3.7.5
 - pytorch==1.71
@@ -26,8 +25,7 @@ Run Code:
 ```
  python3 result_process.py
 ```
--v_info_v_rand.bsh:Calcutalte VInfo，VRand
-Run Code:Execute in ImageJ 
+- v_info_v_rand.bsh:Calcutalte VInfo,VRand,Execute in ImageJ 
 - convs.py:Three types of conv 
 - net_structure:Main structure of Unet network 
 - make_Dataset.py:Create training sets and test sets that meet the needs of pytorch 
